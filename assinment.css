@@ -623,6 +623,7 @@ footer p{
 
 }
 .boxo-container-2{
+    max-width: 545px;
   flex-direction:column;
   gap: 10px;
   margin-top: 20px;
@@ -674,6 +675,9 @@ footer p{
 .section2 h1{
   font-size: 2rem;
   font-weight: 500;
+  font-weight: bold;
+  color: #717171;
+  text-align: center;
   width: 100%;
 }
 
@@ -683,8 +687,9 @@ footer p{
  
 }
 .section3 h1{
-  font-size: 2rem;
-  font-weight: 500;
+   font-size: 2rem;
+  font-weight: bold;
+  color: #717171;
   text-align: center;
 }
 .iconfooter{
@@ -696,17 +701,13 @@ footer p{
 }
 .section3 p{
   margin-top: 10px;
-  text-align: left;
+  text-align: center;
+  padding-left: 1rem;
 }
 .section3 span{
   margin-left: 3rem;
 }
-#s1{
-  margin-left: 2rem;
-}
-#s2{
-  margin-left: 7rem;
-}
+
 .section3 .iconfooter{
   margin-top: 0.6rem;
 }
