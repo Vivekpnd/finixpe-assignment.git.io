@@ -42,7 +42,7 @@ ScrollReveal({
     duration: 2500,
     delay:400
    });
-ScrollReveal().reveal('.text', { delay: 500, origin: 'top'});
+ScrollReveal().reveal('#text21', { delay: 500, origin: 'top'});
    ScrollReveal().reveal('.main-tag', { delay: 500, origin: 'left'});
    ScrollReveal().reveal('.block-description1', { delay: 500, origin: 'left'});
    ScrollReveal().reveal('.blockimg1', { delay: 500, origin: 'right'});
