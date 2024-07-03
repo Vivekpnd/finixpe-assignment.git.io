@@ -193,8 +193,8 @@ img {
  
 }
 .text p{
-    font-weight: bold;
     gap: 1px;
+    font-size:0.6rem;
 }
 .text button{
     width: 110px;
@@ -546,7 +546,7 @@ footer p{
 }
 .text {
   font-size: 10px;
-  bottom: 200px;
+  bottom: 270px;
   left: 10px;
   right: 0;
   max-width: 100%;
@@ -704,9 +704,9 @@ footer p{
   text-align: center;
   padding-left: 1rem;
 }
-.section3 span{
+/* .section3 span{
   margin-left: 3rem;
-}
+} */
 
 .section3 .iconfooter{
   margin-top: 0.6rem;
